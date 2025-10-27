@@ -1,6 +1,6 @@
 # BOFpad - Notepad TabState Decoder (BOF)
 
-BOFpad is a Beacon Object File (BOF) that extracts and decodes saved tab state data from Windows 11/10 Notepad. It scans the Notepad TabState directory, extracts .bin files, and attempts to recover UTF-16LE or ASCII content to help analysts or red teamers understand what was left in open Notepad tabs — even if the tabs were unsaved.
+BOFpad is a Beacon Object File (BOF) that extracts and decodes saved tab state data from Windows 11/10 Notepad. It scans the Notepad TabState directory, extracts .bin files, and attempts to recover UTF-16LE or ASCII content to help analysts or red teamers understand what was left in open Notepad tabs, even if the tabs were unsaved.
 
 ## What It Does
 
